@@ -1,3 +1,6 @@
+This is my first try at quantum computing, and am really glag that IBM has such a challenge where we get to learn a ton!
+
+
 # IBM Quantum Challenge 2021
 
 **The challenge is now LIVE!**
